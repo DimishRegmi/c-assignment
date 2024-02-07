@@ -21,7 +21,7 @@ int main() {
     float amount;
     int choice;
 
-    printf("\nEnter your account number: ");
+    printf("\nEnter your acc num: ");
     scanf("%s", accNum);
 
     if (authenticate(accNum, pin)) {
