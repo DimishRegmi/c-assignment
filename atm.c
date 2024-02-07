@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+// Maximum legth
 #define MAX_LEN 50
 
 // Function prototypes
